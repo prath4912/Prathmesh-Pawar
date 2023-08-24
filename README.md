@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+\<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Prathmesh Pawar</h1>
 <h3 align="center">Computer Engineer Student & Passionate Full Stack Developer|</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathmesh-Pawar&label=Profile%20views&color=0e75b6&style=flat" alt="Prathmesh-Pawar" /> </p>
+
 
 
 - 🌱 I’m currently learning **MERN Full Stack Development**
@@ -44,4 +44,4 @@
 </p>
 
 <h3 align="center">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Pawar&show_icons=true&locale=en&theme=" alt="Prathmesh-Pawar" /></p>
+<p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Pawar&show_icons=true&locale=en&theme=" alt="Prathmesh-Pawar" /></p>
