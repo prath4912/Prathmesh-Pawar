@@ -10,11 +10,17 @@
 - 👨‍💻 Visit My PortFolio **https://pawarprathmesh.netlify.app/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/13PuCuGAJxJ3__NfkYmeOnKd8qgJNrtPB/view?usp=sharing**
 
-<div align = "center" > <a  href="https://www.linkedin.com/in/Prathmesh Pawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align = "center" > 
+<a  href="https://www.linkedin.com/in/Prathmesh Pawar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img width="6" />
 <a href="https://github.com/Prathmesh-Pawar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <img width="6" />
 <a href="https://instagram.com/Prathmeshp_4912" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <img width="6" />
 <a href = "mailto:prathmeshpawaru@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="center">Connect with me:</h3>
+    <img width="6" />
+</div>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/Prathmesh Pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Prathmesh Pawar" height="30" width="40" /></a><a href="https://www.leetcode.com/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Prath_4912" height="30" width="40" /></a><a href="https://instagram.com/Prathmeshp_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Prathmeshp_4912" height="30" width="40" /></a><a href="https://codeforces.com/profile/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Prath_4912" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="Prath_4912" height="30" width="40" /></a><a href="https://www.codechef.com/users/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="Prath_4912" height="30" width="40" /></a></p>
 
