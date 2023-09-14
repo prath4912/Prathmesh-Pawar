@@ -20,6 +20,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px>](https://en.wikipedia.org/wiki/C%2B%2B)
+
 [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>](google.com)
 <img width="50" />
 [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>]
