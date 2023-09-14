@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/Prathmesh Pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Prathmesh Pawar" height="30" width="40" /></a><a href="https://www.leetcode.com/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Prath_4912" height="30" width="40" /></a><a href="https://instagram.com/Prathmeshp_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Prathmeshp_4912" height="30" width="40" /></a><a href="https://codeforces.com/profile/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Prath_4912" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="Prath_4912" height="30" width="40" /></a><a href="https://www.codechef.com/users/Prath_4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="Prath_4912" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<div align="center">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px>](https://en.wikipedia.org/wiki/C%2B%2B)
 
 [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>](google.com)
@@ -47,7 +47,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
+</div>
 
 <h3 align="center">Stars</h3>
 <p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Prathmesh-Pawar&show_icons=true&locale=en&theme=" alt="Prathmesh-Pawar" /></p>
